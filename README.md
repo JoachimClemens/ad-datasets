@@ -97,15 +97,15 @@ Fields:
 1. `<alt>`: altitude in *m*
 1. `<quality>`: solution quality reported by receiver (not present in all datasets):
 
-    0. unknown/invalid
-    1. no solution
-    2. dead reckoning
-    3. single
-    4. SBAS
-    5. DGPS/DGNSS
-    6. PPP
-    7. RTK float
-    8. RTK fix
+    * 0: unknown/invalid
+    * 1: no solution
+    * 2: dead reckoning
+    * 3: single
+    * 4: SBAS
+    * 5: DGPS/DGNSS
+    * 6: PPP
+    * 7: RTK float
+    * 8: RTK fix
 
 ## Datasets
 
