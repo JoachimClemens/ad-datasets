@@ -98,14 +98,14 @@ Fields:
 1. `<quality>`: solution quality reported by receiver (not present in all datasets):
 
     0. unknown/invalid
-    0. no solution
-    0. dead reckoning
-    0. single
-    0. SBAS
-    0. DGPS/DGNSS
-    0. PPP
-    0. RTK float
-    0. RTK fix
+    1. no solution
+    2. dead reckoning
+    3. single
+    4. SBAS
+    5. DGPS/DGNSS
+    6. PPP
+    7. RTK float
+    8. RTK fix
 
 ## Datasets
 
