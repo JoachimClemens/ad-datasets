@@ -1,0 +1,4 @@
+parking_lot.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+suburb.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+urban_freeway.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+city.csv.bz2 filter=lfs diff=lfs merge=lfs -text
