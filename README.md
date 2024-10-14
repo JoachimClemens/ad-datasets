@@ -2,6 +2,7 @@
 
 This repository contains autonomous driving datasets used in the following paper:
 
+Clemens, J.; Wellhausen, C. The Square-Root Unscented and the Square-Root Cubature Kalman Filters on Manifolds. *Sensors* 2024, 24, 6622. https://doi.org/10.3390/s24206622 
 
 ## Research Vehicle
 
